@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=ashitosh999&color=blueviolet)
 - 🌱 I’m currently learning **Devops Skill Set**
 
-- 👯 I’m looking to collaborate on **Devops Projetc**
+- 👯 I’m looking to collaborate on **Devops Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashitosh999?tab=repositories](https://github.com/ashitosh999?tab=repositories)
 
@@ -62,13 +62,18 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
-
+<div align="center">
+ <div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashitosh999&show_icons=true&locale=en&layout=compact" alt="ashitosh999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashitosh999&show_icons=true&locale=en" alt="ashitosh999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashitosh999&theme=dark" alt="ashitosh999" /></p>
-
+  </div>
+<div align="right">
+<img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" height="350px" width="350px">
+ </div>
+</div>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
